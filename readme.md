@@ -1,6 +1,6 @@
 # MechaMocha
 
-*THIS IS experimental*
+*This Is Experimental*
 
 Mocha + node assert dumper by traverse JavaScript AST.
 
