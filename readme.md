@@ -25,10 +25,6 @@ describe('Array', function () {
             assert.equal([1, 2, 3].indexOf(5), -1);
             assert.equal([1, 2, 3].indexOf(0), -1);
         });
-        it('should return -1 when the value is not present', function () {
-            assert.equal([1, 2, 3].indexOf(5), -1);
-            assert.equal([1, 2, 3].indexOf(0), -1);
-        })
     });
 });
 describe('IsNaN', function () {
@@ -50,9 +46,6 @@ Result :
 ```
 Array
    #indexOf()
-     should return -1 when the value is not present
-       [1, 2, 3].indexOf(5) equal -1
-       [1, 2, 3].indexOf(0) equal -1
      should return -1 when the value is not present
        [1, 2, 3].indexOf(5) equal -1
        [1, 2, 3].indexOf(0) equal -1
