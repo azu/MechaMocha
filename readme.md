@@ -4,7 +4,7 @@
 
 Mocha + node assert dumper by traverse JavaScript AST.
 
-The reality is, I recommend use mocha's [Doc](http://visionmedia.github.io/mocha/ "Doc") reporter.
+The reality is, I recommend use mocha's [Doc](http://mochajs.org/ "Doc") reporter.
 
 ## Installation
 
